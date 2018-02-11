@@ -1,0 +1,11 @@
+F:\Uzaylı Avı\Space İnvaders v.2.0\bin\Debug\Space İnvaders v.1.0.exe.config
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Interop.SpeechLib.dll
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space İnvaders v.2.0.csproj.ResolveComReference.cache
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space İnvaders v.1.0.exe
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space İnvaders v.2.0.csprojResolveAssemblyReference.cache
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form1.resources
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form2.resources
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form4.resources
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space_İnvaders_v._1._0.Form5.resources
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space_İnvaders_v._1._0.Properties.Resources.resources
+F:\Uzaylı Avı\Space İnvaders v.2.0\obj\x86\Debug\Space İnvaders v.2.0.csproj.GenerateResource.Cache

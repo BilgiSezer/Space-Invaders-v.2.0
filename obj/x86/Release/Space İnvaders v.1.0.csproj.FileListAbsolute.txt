@@ -1,0 +1,3 @@
+C:\Users\SEZER UĞUZ\Desktop\DOSYALAR-1\DERSLER\Uzaylı Avı C# Projesi - MSOTech\Uzaylı Avı\Space İnvaders v.1.0\bin\Release\Space İnvaders v.1.0.exe.config
+C:\Users\SEZER UĞUZ\Desktop\DOSYALAR-1\DERSLER\Uzaylı Avı C# Projesi - MSOTech\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\SEZER UĞUZ\Desktop\DOSYALAR-1\DERSLER\Uzaylı Avı C# Projesi - MSOTech\Uzaylı Avı\Space İnvaders v.1.0\obj\x86\Release\Space İnvaders v.1.0.csproj.ResolveComReference.cache
